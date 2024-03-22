@@ -88,7 +88,7 @@
     "donate-over-proxy": 1,
     "pools": [
         {
-            "algo": null,
+            "algo": auto,
             "coin": "XMR",
             "url": "xmrpool.eu:3333",
             "user": "42ezxGiTsxdQJtfqkPG5jecaCPVD54RGXFvSYec8xzsMKtkdt7WmQKrUf18kQ1vvzPbjSAueG48K5QMgo6bhd3ZhJW5MBLV",
